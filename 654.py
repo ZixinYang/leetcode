@@ -7,7 +7,7 @@ The right subtree is the maximum tree constructed from right part subarray divid
 Construct the m
 '''
 
-# Tags: Binary Search
+# Tags: Binary Tree
 
 # Definition for a binary tree node.
 # class TreeNode:
